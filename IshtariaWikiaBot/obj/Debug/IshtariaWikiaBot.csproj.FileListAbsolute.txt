@@ -1,0 +1,9 @@
+F:\Programación\Utilitats\IshtariaWikiaBot\IshtariaWikiaBot\bin\Debug\IshtariaWikiaBot.dll
+F:\Programación\Utilitats\IshtariaWikiaBot\IshtariaWikiaBot\bin\Debug\IshtariaWikiaBot.pdb
+F:\Programación\Utilitats\IshtariaWikiaBot\IshtariaWikiaBot\obj\Debug\IshtariaWikiaBot.dll
+F:\Programación\Utilitats\IshtariaWikiaBot\IshtariaWikiaBot\obj\Debug\IshtariaWikiaBot.pdb
+E:\Programación\Utilitats\IshtariaWikiaBot\IshtariaWikiaBot\bin\Debug\IshtariaWikiaBot.dll
+E:\Programación\Utilitats\IshtariaWikiaBot\IshtariaWikiaBot\bin\Debug\IshtariaWikiaBot.pdb
+E:\Programación\Utilitats\IshtariaWikiaBot\IshtariaWikiaBot\obj\Debug\IshtariaWikiaBot.dll
+E:\Programación\Utilitats\IshtariaWikiaBot\IshtariaWikiaBot\obj\Debug\IshtariaWikiaBot.pdb
+F:\Programación\Utilitats\IshtariaWikiaBot\IshtariaWikiaBot\obj\Debug\IshtariaWikiaBot.csprojResolveAssemblyReference.cache

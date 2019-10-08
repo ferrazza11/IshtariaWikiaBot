@@ -1,0 +1,17 @@
+F:\Programación\Utilitats\IshtariaWikiaBot\Test\bin\Debug\Test.exe.config
+F:\Programación\Utilitats\IshtariaWikiaBot\Test\bin\Debug\Test.exe
+F:\Programación\Utilitats\IshtariaWikiaBot\Test\bin\Debug\Test.pdb
+F:\Programación\Utilitats\IshtariaWikiaBot\Test\obj\Debug\Test.exe
+F:\Programación\Utilitats\IshtariaWikiaBot\Test\obj\Debug\Test.pdb
+F:\Programación\Utilitats\IshtariaWikiaBot\Test\bin\Debug\IshtariaWikiaBot.dll
+F:\Programación\Utilitats\IshtariaWikiaBot\Test\bin\Debug\IshtariaWikiaBot.pdb
+F:\Programación\Utilitats\IshtariaWikiaBot\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\Programación\Utilitats\IshtariaWikiaBot\Test\bin\Debug\Test.exe.config
+E:\Programación\Utilitats\IshtariaWikiaBot\Test\bin\Debug\Test.exe
+E:\Programación\Utilitats\IshtariaWikiaBot\Test\bin\Debug\Test.pdb
+E:\Programación\Utilitats\IshtariaWikiaBot\Test\bin\Debug\IshtariaWikiaBot.dll
+E:\Programación\Utilitats\IshtariaWikiaBot\Test\bin\Debug\IshtariaWikiaBot.pdb
+E:\Programación\Utilitats\IshtariaWikiaBot\Test\obj\Debug\Test.exe
+E:\Programación\Utilitats\IshtariaWikiaBot\Test\obj\Debug\Test.pdb
+E:\Programación\Utilitats\IshtariaWikiaBot\Test\obj\Debug\Test.csprojAssemblyReference.cache
+E:\Programación\Utilitats\IshtariaWikiaBot\Test\obj\Debug\Test.csproj.CopyComplete

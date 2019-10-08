@@ -1,0 +1,13 @@
+F:\Programación\Utilitats\IshtariaWikiaBot\IshtariaWikiaBot\bin\Release\IshtariaWikiaBot.dll
+F:\Programación\Utilitats\IshtariaWikiaBot\IshtariaWikiaBot\bin\Release\IshtariaWikiaBot.pdb
+F:\Programación\Utilitats\IshtariaWikiaBot\IshtariaWikiaBot\obj\Release\IshtariaWikiaBot.dll
+F:\Programación\Utilitats\IshtariaWikiaBot\IshtariaWikiaBot\obj\Release\IshtariaWikiaBot.pdb
+E:\Programación\Utilitats\IshtariaWikiaBot\IshtariaWikiaBot\bin\Release\IshtariaWikiaBot.dll
+E:\Programación\Utilitats\IshtariaWikiaBot\IshtariaWikiaBot\bin\Release\IshtariaWikiaBot.pdb
+E:\Programación\Utilitats\IshtariaWikiaBot\IshtariaWikiaBot\obj\Release\IshtariaWikiaBot.dll
+E:\Programación\Utilitats\IshtariaWikiaBot\IshtariaWikiaBot\obj\Release\IshtariaWikiaBot.pdb
+G:\Programación\Utilitats\IshtariaWikiaBot\IshtariaWikiaBot\bin\Release\IshtariaWikiaBot.dll
+G:\Programación\Utilitats\IshtariaWikiaBot\IshtariaWikiaBot\bin\Release\IshtariaWikiaBot.pdb
+G:\Programación\Utilitats\IshtariaWikiaBot\IshtariaWikiaBot\obj\Release\IshtariaWikiaBot.dll
+G:\Programación\Utilitats\IshtariaWikiaBot\IshtariaWikiaBot\obj\Release\IshtariaWikiaBot.pdb
+E:\Programación\Utilitats\IshtariaWikiaBot\IshtariaWikiaBot\obj\Release\IshtariaWikiaBot.csprojAssemblyReference.cache

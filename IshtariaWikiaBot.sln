@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IshtariaWikiaBot", "IshtariaWikiaBot\IshtariaWikiaBot.csproj", "{A39939BC-4218-42F0-88CA-D8A5254F761A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AoIBotService", "AoIBotService\AoIBotService.csproj", "{0072807F-E754-41B3-A426-79DFCDCB5847}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{614E3534-0203-48FD-A11A-1638A8CEA419}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A39939BC-4218-42F0-88CA-D8A5254F761A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A39939BC-4218-42F0-88CA-D8A5254F761A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A39939BC-4218-42F0-88CA-D8A5254F761A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A39939BC-4218-42F0-88CA-D8A5254F761A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0072807F-E754-41B3-A426-79DFCDCB5847}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0072807F-E754-41B3-A426-79DFCDCB5847}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0072807F-E754-41B3-A426-79DFCDCB5847}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0072807F-E754-41B3-A426-79DFCDCB5847}.Release|Any CPU.Build.0 = Release|Any CPU
+		{614E3534-0203-48FD-A11A-1638A8CEA419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{614E3534-0203-48FD-A11A-1638A8CEA419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{614E3534-0203-48FD-A11A-1638A8CEA419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{614E3534-0203-48FD-A11A-1638A8CEA419}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
